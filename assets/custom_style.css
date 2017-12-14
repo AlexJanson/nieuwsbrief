@@ -1,0 +1,25 @@
+.center-content {
+    margin: auto;
+    width: 50%;
+    /*border: 3px solid green;*/
+    padding: 10px;
+}
+
+.header {
+    background: darkgray;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+    font-family: monospace;
+    border-radius: 5px;
+}
+
+.main-content {
+    border: 1px solid black;
+    margin-top: 25px;
+    width: 98.5%;
+    height: fit-content;
+    padding: 5px;
+    background: darkgray;
+    border-radius: 5px;
+}
